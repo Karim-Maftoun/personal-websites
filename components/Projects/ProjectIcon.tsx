@@ -13,7 +13,6 @@ type ProjectIconProps = {
   title: string;
   description: string;
   imageURL: string;
-  dispatch: Function;
 };
 
 const ProjectIcon = ({ title, description, imageURL }: ProjectIconProps) => {
