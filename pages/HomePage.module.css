@@ -22,15 +22,16 @@
   max-width: 500px;
   font-family: 'Anton', sans-serif;
   font-family: 'Roboto', sans-serif;
-  color: var(--primary-color);
+  color: var(--text-color);
   display: block;
   text-align: justify;
   height: auto;
+  font-size: 19px;
 }
 
 .name {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: var(--primary-color);
+  color: var(--text-color);
 }
 
 .homepage {

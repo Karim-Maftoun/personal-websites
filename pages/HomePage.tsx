@@ -7,6 +7,7 @@ import {
   LinkedinURL,
   InstagramURL,
   GithubURL,
+  TwitterURl,
 } from '../constants/userInfo';
 
 export default function HomePage() {
@@ -20,7 +21,7 @@ export default function HomePage() {
         <div className={styles.detail}>
           <div className={styles.textContainer}>
             <div className={styles.name}>
-              <h1>Hi my name is {name}</h1>
+              <h1>Hi, I'm {name}</h1>
             </div>
 
             <div className={styles.bio}>
@@ -30,10 +31,8 @@ export default function HomePage() {
             <div className={styles['social-media']}>
               <SocialIcon className={styles['social-icon']} url={LinkedinURL} />
               <SocialIcon className={styles['social-icon']} url={GithubURL} />
-              <SocialIcon
-                className={styles['social-icon']}
-                url={InstagramURL}
-              />
+              <SocialIcon className={styles['social-icon']} url={InstagramURL}/>
+              <SocialIcon className={styles['social-icon']} url={TwitterURl} />
             </div>
           </div>
 

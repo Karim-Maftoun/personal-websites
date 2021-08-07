@@ -1,15 +1,11 @@
-export const name = '___';
-export const description = `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.`;
-export const LinkedinURL = 'https://www.linkedin.com/in/manasa-lingireddy/';
-export const GithubURL = 'https://github.com/manasaling';
-export const InstagramURL = 'https://www.instagram.com/manasa.ling/';
+export const name = 'Karim Maftoun';
+export const description = `I’m a computer science major and aspiring entrepreneur at Bellevue College. I work on my own passion projects and have a sneaker reselling business. I volunteer with the Washington Bus to raise political awareness on important issues in the Seattle area. Thank you for coming to my website.`;
+export const LinkedinURL = 'https://www.linkedin.com/in/karim-maftoun-527aba213';
+export const GithubURL = 'https://github.com/Karim-Maftoun';
+export const InstagramURL = 'https://www.instagram.com/karim_m123/';
 export const email = '356a496b173266a8a3ffcec38a1b2320';
+export const TwitterURl = 'https://twitter.com/itookstock';
+
 
 export const tmp_project_list = [
   {
