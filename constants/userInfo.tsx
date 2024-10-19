@@ -1,5 +1,5 @@
 export const name = 'Karim Maftoun';
-export const description = `I’m a computer science major and aspiring entrepreneur at UW. I work on my own passion projects and have a sneaker reselling business. I also volunteer with the Washington Bus to raise political awareness on important issues in the Seattle area. Thank you for coming to my website.`;
+export const description = `I’m a computer science major and aspiring entrepreneur at UWCSE. I work on my own passion projects and have a sneaker reselling business. I also volunteer with the Washington Bus to raise political awareness on important issues in the Seattle area. Thank you for coming to my website.`;
 export const LinkedinURL = 'https://www.linkedin.com/in/karim-maftoun-527aba213';
 export const GithubURL = 'https://github.com/Karim-Maftoun';
 export const InstagramURL = 'https://www.instagram.com/karim_m123/';
