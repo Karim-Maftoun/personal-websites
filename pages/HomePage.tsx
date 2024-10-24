@@ -59,7 +59,7 @@ export default function HomePage() {
               holding a beverage in a clear cup with a straw. They are wearing a dark t-shirt and light-colored shorts,
               and are positioned in front of a blue building. The background includes a sidewalk with a advertising,
                as well as a few people walking in the distance."
-              tabIndex="0"
+              tabIndex={0}
             />
           </div>
         </div>
