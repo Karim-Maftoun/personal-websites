@@ -57,3 +57,8 @@
   margin-right: 20px;
   margin-bottom: 5px;
 }
+
+.bio h2 {
+  font-size: 1.2em; /* Adjust this value to make it slightly smaller */
+  line-height: 1.4; /* Optionally adjust the line height for better readability */
+}
